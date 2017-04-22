@@ -1,0 +1,2 @@
+Main-Class: by.bntu.fitr.povt.java_exam.pavelzzzzz.task.controller.Controller
+
